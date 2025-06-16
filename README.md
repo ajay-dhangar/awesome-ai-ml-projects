@@ -48,7 +48,7 @@ To explore any project:
    ```bash
    git clone https://github.com/ajay-dhangar/awesome-ai-ml-projects.git
    cd awesome-ai-ml-projects
-````
+   ```
 
 2. Navigate into the desired project folder.
 3. Open the Jupyter notebook or Python scripts.
